@@ -1,11 +1,9 @@
 
 import java.util.Scanner;
 
-class Even_Odd
-{
-  public static void main(String args[])
-  
-  {
+class Even_Odd{
+
+  public static void main(String args[]){
   
     int num;
     
