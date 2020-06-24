@@ -4,7 +4,8 @@ class EvenOdd
 {
   public static void main(String args[])
   {
-    int number;
+    
+   int number;
     System.out.println("Enter an Integer number:");
 
    Scanner input = new Scanner(System.in);
@@ -12,7 +13,8 @@ class EvenOdd
      
    if ( num % 2 == 0 )
         System.out.println("Entered number is even");
-     else
+    
+   else
         System.out.println("Entered number is odd");
   }
 }
